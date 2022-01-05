@@ -1,2 +1,2 @@
 # machine-learning-basics
-A personal repo for practicing machine learning exercises 
+A personal repo for studying Machine Learning base concepts.
